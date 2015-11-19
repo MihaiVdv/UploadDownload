@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "poet",
+    "packageName": "ro.cst.app",
+    "packageFolder": "ro/cst/app",
+    "authenticationType": "xauth",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "enableTranslation": true,
+    "rememberMeKey": "7388cd375c4b5ddaf7f15b1f10c8a63c5d08f4f7"
+  }
+}
